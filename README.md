@@ -1,7 +1,5 @@
 Hello! I'm @jlevianderson
 
-Please feel free to share any feedback as I am still learning the proper techniques and etiquette of programming, Github, and all of the above. :)
-
 Python modules and skills I am interested in and learning: <br>
 -Pandas <br>
 -Numpy <br>
