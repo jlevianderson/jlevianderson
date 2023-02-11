@@ -1,6 +1,6 @@
 Hello! I'm @jlevianderson
 
-Python modules and skills I am interested in and learning: <br>
+Python Libraries I am familiar with:
 -Pandas <br>
 -Numpy <br>
 -Pygame <br>
